@@ -1,1 +1,1 @@
-# wm1_fall23_sec1
+<h1>Welcome to my first repo that holds a simple web app</h1>
